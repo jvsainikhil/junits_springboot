@@ -1,6 +1,6 @@
-package sfg;
+package sample;
 
-public class sgasg {
+public class sampleproj {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
